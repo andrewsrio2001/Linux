@@ -1,0 +1,100 @@
+ls - List directory contents
+cd - Change the current directory
+pwd - Print working directory
+mkdir - Create a new directory
+rmdir - Remove a directory
+touch - Create an empty file
+rm - Remove files or directories
+cp - Copy files or directories
+mv - Move or rename files or directories
+cat - Concatenate and display file content
+less - View file content one page at a time
+head - Display the first part of a file
+tail - Display the last part of a file
+grep - Search for patterns in files
+find - Search for files and directories
+chmod - Change file permissions
+chown - Change file ownership
+chgrp - Change group ownership of files
+ln - Create links between files
+locate - Find files by name
+df - Display disk space usage
+du - Display disk usage of files and directories
+mount - Mount a filesystem
+umount - Unmount a filesystem
+tar - Archive files
+gzip - Compress files
+gunzip - Decompress files
+zip - Create a compressed archive
+unzip - Extract files from a zip archive
+ps - Display information about running processes
+top - Display and manage running processes
+kill - Terminate processes
+man - Display manual pages for commands
+info - Display information about commands
+date - Display or set the system date and time
+cal - Display a calendar
+echo - Display a line of text
+wc - Count words, lines, or characters in a file
+sort - Sort lines of text files
+uniq - Report or omit repeated lines
+cut - Select portions of lines from files
+paste - Merge lines of files
+grep - Search for patterns in files
+sed - Stream editor for filtering and transforming text
+awk - Pattern scanning and processing language
+tee - Redirect output to multiple files
+alias - Create an alias for a command
+source - Execute commands from a file
+history - Display command history
+sudo - Execute a command as another user
+su - Switch user or become another user
+useradd - Create a new user
+userdel - Delete a user
+passwd - Change user password
+groupadd - Create a new group
+groupdel - Delete a group
+groups - Display groups a user is in
+ifconfig - Configure network interfaces
+ping - Send ICMP echo requests to a host
+netstat - Display network connections, routing tables, and interface statistics
+traceroute - Print the route packets trace to a network host
+ssh - Secure shell client
+scp - Secure copy files between hosts
+wget - Retrieve files from the web
+curl - Transfer data from or to a server
+systemctl - Control systemd services
+journalctl - Query and display system logs
+hostname - Display or set the system's hostname
+uname - Display system information
+shutdown - Shutdown or reboot the system
+reboot - Reboot the system
+uptime - Display how long the system has been running
+free - Display amount of free and used memory in the system
+df - Display disk space usage
+fdisk - Partition table manipulator
+mkfs - Build a Linux filesystem
+fsck - File system consistency check and repair
+mount - Mount a filesystem
+umount - Unmount a filesystem
+chmod - Change file permissions
+chown - Change file ownership
+chgrp - Change group ownership of files
+tar - Archive files
+gzip - Compress files
+gunzip - Decompress files
+zip - Create a compressed archive
+unzip - Extract files from a zip archive
+ps - Display information about running processes
+top - Display and manage running processes
+kill - Terminate processes
+bg - Put a job in the background
+fg - Bring a job to the foreground
+jobs - Display status of jobs
+nohup - Run a command immune to hangups
+nice - Run a command with modified scheduling priority
+renice - Alter priority of running processes
+at - Schedule tasks to be run at a later time
+crontab - Schedule periodic tasks
+uptime - Display how long the system has been running
+logout - Exit the current shell session
