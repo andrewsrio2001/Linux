@@ -98,3 +98,119 @@ at - Schedule tasks to be run at a later time
 crontab - Schedule periodic tasks
 uptime - Display how long the system has been running
 logout - Exit the current shell session
+<hr/>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cd  --- change dir
+ls -- list
+command 0 --- stdin
+command 1 --- stdout
+command 2 --- stderr
+PWD  --- present working dir
+ln  --- hard and soft link
+rm  --- remove
+mv --- move,rename
+cp  --- copy
+more ---- to see file in screen size
+more -2 --- to see first two numbers
+more +4 --- to see after 4 numbers
+chmod  --- change the read-write execute permission
+grep --- seprate the same value
+whoami --- what user
+whatis --- to known the command discription
+man ---- to know how to use the command
+wget --- create an HTTP link and download the file
+exit --- exit from the terminal
+zip {file.zip} file ---- zip the file 
+unzip  (file.zip) --- unzip the file
+ifconfig  ---- ipaddressoo
+nano --- open the text editor
+touch  ---- create a normal file
+cat   ---- read the text file
+mkdir   --- create directory
+ping  --- check IP live or dead
+sudo bash   --- root user
+ps -- a run process
+top -- running task
+head -5 ---- to display first 5 number
+tail -4 --- to print last 4 line
+sed -n '6,12p' filename --- to print condition line
+locate -- locate the path
+nslookup -- domain IP address
+whois --- domain name 
+file --- file type
+mkdir   ---- make dir
+rmdir  --- remove dir 
+\  --- create a file with space
+Alt+F  --- move between words
+Alt+B  --- move back between words
+ctrl+c  --- copy
+ctrl+v ---- paste
+ctrl+L ---- clear
+Alt+u ---- change capital
+Alt+l ---  change lower
+ctrl+k --- cut letter
+ctrl+y --- paste the words
+ctrl+r --- to suggest the recent values
+cal --- calendar
+date --- current date
+poweroff --- shutdown
+reboot --- system reboot
+vi --- text edit
+gedit --- grapical text editer
+history  --- history commands
+less --- same as cat 
+tac --- same as a cat
+head  --- to display the top 10 line
+tail  --- to display the bottom 10 line
+WC  --- line num, word num, byte num
+type --  command type
+which ---- to mention the part of the command
+help --- to help the command process
+man -- it is used to listing the details
+• --- everything
+alias --- to create a new command alias sai=" cd sai"
+hostname --- IP address
+netstat --- network connection, routing tables
+traceroute --- routes and hops used by packet
+time ls --- user and system time used
+& --- to do more than one operation at a time (unsynchronized execution)
+; --- one operation completes then the other executes (synchronized)
+echo $? --- status of last executed command
+&& --- if the first operation success the second happens
+// --- if the first operation fails also second happens
+| --- op of one command is passed to other
+> --- to pass op of one to other
+sudo runlevel --- display current run level(0-6)
+mount --- to attach external filesystem to filesystem of the system
+umount --- detaches the external file system from the system hierarchy
+awk --- scripting language for file modification and automation
+ping (domain name) ---- ping and find the IP address
+nc IP address port num ---- to get access 
+[GET / HTTP/1.1] --- to enroll the data
+[HEAD /HTTP/1.1] --- to enroll the head data
+[OPTIONS / HTTP/1.1] ---- to see the options
+dig domain name ---- to identify the IP address
+sudo useradd -m (name)   --- to add a user
+sudo passwd (name)  ---- to set the password for the user
+sudo groupadd (name) --- to create a group 
+sudo usermod -a -G (group-name) (user-name) ----- to add a user into group
+getfacl (dir)  --- to display the all deatils of the dir
+sudo iftop  ---- to display the network speed
+sudo su - username --- to change the user 
+sudo ufw allow/status/enable (port-nun)
+sudo ss -tupln  ---- to see the active ports
+"$(date +"%Y_%m_%d_%I_%M_%p")
+chsh --- to change the shell
+vi :set number --- to display number in our script
+cat -n filename --- to display the number 
+dir{
+/  ---- root dir
+/home  ---- to split the different user home page
+/var  ---- to store the log fille
+/etc  ---- to store the configu file
+/temp --- to store the temp files
+/opt  --- storing thrid pary app
+/lib ---- store library file
+/root --- admin/high privilages
+/bin  ---- binary files
+/dev  --- show extral device
